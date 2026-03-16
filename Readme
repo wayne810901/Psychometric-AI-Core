@@ -1,0 +1,23 @@
+# Psychometric-AI-Core
+
+Core AI algorithms for the **AI Career Navigator** system.
+
+This repository contains the core machine learning and psychometric modeling components used to analyze student career-interest assessment data and generate personalized career exploration insights.
+
+The project integrates **psychometrics, machine learning, and AI-driven analysis** to support intelligent career exploration systems for students.
+
+---
+
+## Project Overview
+
+This repository implements the core AI pipeline used in the system:
+
+1. Psychometric score preprocessing and normalization  
+2. Latent interest profile classification using Support Vector Machines (SVM)  
+3. Model robustness verification using cross-validation  
+
+The models are designed to classify **72 latent psychometric interest profiles** derived from large-scale student assessment data.
+
+---
+
+## Repository Structure
